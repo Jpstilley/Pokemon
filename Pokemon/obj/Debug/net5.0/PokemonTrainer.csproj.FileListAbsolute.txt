@@ -1,0 +1,16 @@
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\bin\Debug\net5.0\PokemonTrainer.exe
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\bin\Debug\net5.0\PokemonTrainer.deps.json
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\bin\Debug\net5.0\PokemonTrainer.runtimeconfig.json
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\bin\Debug\net5.0\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\bin\Debug\net5.0\PokemonTrainer.dll
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\bin\Debug\net5.0\ref\PokemonTrainer.dll
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\bin\Debug\net5.0\PokemonTrainer.pdb
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\obj\Debug\net5.0\PokemonTrainer.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\obj\Debug\net5.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\obj\Debug\net5.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\obj\Debug\net5.0\PokemonTrainer.AssemblyInfo.cs
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\obj\Debug\net5.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\obj\Debug\net5.0\PokemonTrainer.dll
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\obj\Debug\net5.0\ref\PokemonTrainer.dll
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\obj\Debug\net5.0\PokemonTrainer.pdb
+C:\Users\andre\Documents\Kata Work\Pokemon\Pokemon\obj\Debug\net5.0\PokemonTrainer.genruntimeconfig.cache
